@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mapper Gromov-Wasserstein distance examples
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ziyad
+    family-names: Oulhaj
+    email: ziyad.oulhaj@ec-nantes.fr
+    affiliation: >-
+      Nantes Université, Laboratoire de Mathématiques Jean
+      Leray
+repository-code: 'https://github.com/ZiyadOulhaj/Mapper-MMS'
+abstract: >-
+  We give examples of how Gromov-Wasserstein distances can
+  be computed for Mapper graphs by treating them as
+  metric-measure spaces. The Gromov-Wasserstein computation
+  is done using the POT library.
